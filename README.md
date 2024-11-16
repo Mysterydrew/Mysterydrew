@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mysterydrew
+- 👋 Hi..
 - 👀 I’m interested in Electronics and Communication engineering projects
 - 🌱 I’m currently learning ECE 
 - 💞️ I’m looking to collaborate on various projects
